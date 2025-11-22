@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473968654538",
+    "project_id": "cn-makeup",
+    "storage_bucket": "cn-makeup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473968654538:android:2c0a24859ec5da7b139c33",
+        "android_client_info": {
+          "package_name": "com.groceryshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-q3YFc0dCpspGQNEmXEUQ8tPIO3TqbHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
